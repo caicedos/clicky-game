@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Quick Draw",
+    "image": "/images/Quick_Draw_McGraw.png",
+    "selected": false
+
+  },
+  {
+    "id": 2,
+    "name": "Robot",
+    "image": "/images/0e85d0dd5aa9e3d6fb93c53d790a5304.png",
+    "selected": false
+
+  },
+  {
+    "id": 3,
+    "name": "Yogi",
+    "image": "/images/200px-Yogi_Bear_Yogi_Bear.png",
+    "selected": false
+
+  },
+  {
+    "id": 4,
+    "name": "Boo Boo",
+    "image": "/images/200px-Boo-Boo_Bear.png",
+    "selected": false
+
+  },
+  {
+    "id": 5,
+    "name": "Scooby Doo",
+    "image": "/images/150px-Scooby-Doo.png",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "name": "Brak",
+    "image": "/images/235px-Brak_(character).png",
+    "selected": false
+
+  },
+  {
+    "id": 7,
+    "name": "Space Ghost",
+    "image": "/images/175px-Space_Ghost.png",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "name": "Top Cat",
+    "image": "/images/Topcat002.webp",
+    "selected": false
+  },
+  {
+    "id": 9,
+    "name": "Tom",
+    "image": "/images/Tom_Tom_and_Jerry.png",
+    "selected": false
+  },
+  {
+    "id": 10,
+    "name": "Jerry",
+    "image": "/images/Jerry_Mouse.png",
+    "selected": false
+  },
+  {
+    "id": 11,
+    "name": "Dastardly",
+    "image": "/images/WW_1.webp",
+    "selected": false
+  },
+  {
+    "id": 12,
+    "name": "Jane",
+    "image": "/images/the-jetsons-jane.gif",
+    "selected": false
+  }
+]
